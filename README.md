@@ -1,5 +1,4 @@
-img source=<img src ="https://freesvg.org/img/cyberscooty-music-notes.png" alt="Black and white musical notes vector drawing | Free SVG"/><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bd0bb1c4-6b0a-43ca-8a62-9a5b3f0936e3" 
-
+img source=<img src ="https://github.com/user-attachments/assets/bd0bb1c4-6b0a-43ca-8a62-9a5b3f0936e3"
 <B> HELLO my name is Sofia. ✋
 <p></p>
  I like playing the drums but I also play piano and trumpet.🥁 
